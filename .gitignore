@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+node_modules.nosync
+
+node_modules.nosync
+
+node_modules.nosync
+.sync.ffs_db
+.vscode/launch.json
+yarn.lock
+package-lock.json
